@@ -41,7 +41,7 @@ Use any one of the above to deploy
 ## 🍥 Features of the Repo
 
 -   To view all features, click
-    here➡️[Kaoi_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
+    here➡️[Star_featuresList.md](https://github.com/Nakshatra4762/Star-2.0/blob/main/Features.md)
 
 ## 💪 Contribution
 
