@@ -24,6 +24,10 @@ Use any one of the above to deploy
 </div><br/>
 <br/>
 
+## 🎗Help
+Please give this repo a ✨ if it helped you.
+
+
 ## ✨ Highlights
 
 -   Fully Modular Design
