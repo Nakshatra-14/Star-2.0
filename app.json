@@ -40,6 +40,10 @@
         "CHAT_BOT_URL": {
             "description": "BrainShop API Brain url",
             "required": false
+        },
+        "TENOR_API_KEY": {
+            "description": "A key used for gif searches",
+            "required": false
         }
     },
     "buildpacks": [
