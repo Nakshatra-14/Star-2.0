@@ -2,6 +2,7 @@
 <a href="https://ibb.co/wQ4GK21"><img src="https://i.ibb.co/sFSBd4m/ezgif-com-gif-maker.gif" alt="whatsapp-botto-void-init" border="0"></a>
 
 # **Star 2.0 : Next Level Void WhatsApp BOTTO**
+  **Dont use this now it is under maintanance**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi/badge)](https://www.codefactor.io/repository/github/prajjwaldatir/kaoi)
 
@@ -10,16 +11,6 @@
 > A Fully Modular and Efficient Bot <br>
   Meet the Furture Here <br>
 
-
-Button : If you are deploying normally
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Nakshatra4762/Star-2.0/blob/main)
-
-Button : If you are deploying from a fork
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-Use any one of the above to deploy
 
 </div><br/>
 <br/>
